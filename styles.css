@@ -18,7 +18,7 @@ html.dark {
   --secondary-color: #333;
 }
 
-html.darl {
+html.dark {
   background-color: #111;
   color: var(--primary-color);
 }
